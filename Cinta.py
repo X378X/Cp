@@ -608,7 +608,7 @@ def crack(idf,pwv):
 			ses.headers.update({"Host": "m.facebook.com",
 	"cache-control": "max-age=0",
 	"upgrade-insecure-requests": "1",
-	"user-agent": "Mozilla/5.0 (Linux; Android 4.4.2; CHM-U01 Build/HonorCHM-U01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/192.0.0.31.101;]",
+	"user-agent": "Mozilla/5.0 (Linux; Tizen 2.3; SAMSUNG SM-Z130H) AppleWebKit/537.3 (KHTML, like Gecko) Version/2.3 Mobile Safari/537.3",
 	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
 	"sec-fetch-site": "same-origin",
 	"sec-fetch-mode": "navigate",
